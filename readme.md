@@ -19,3 +19,8 @@ In this project we use Pycaret library, which is an open-source machine learning
 	
 	
 And then we plot the TSNE plots for each algorithm, and evaluate the algorithms by compare its output with the actual output, and compare the algorithms with respect to accuracy, precision, recall, and F1 scores.
+
+
+<h3>Conclusion:</h3>
+After applying the four algorithms, we used the labeled data to evaluate each model and compare its output with the actual output from the labeled dataset.
+
