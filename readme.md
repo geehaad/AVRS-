@@ -24,7 +24,7 @@ And then we plot the TSNE plots for each algorithm, and evaluate the algorithms 
 <h3>Conclusion:</h3>
 After applying the four algorithms, we used the labeled data to evaluate each model and compare its output with the actual output from the labeled dataset.
 
-<img src='Capture'>
-<img src='Capture1'>
-<img src='Capture2'>
-<img src='Capture3'>
+<img src='Capture.PNG'>
+<img src='Capture1.PNG'>
+<img src='Capture2.PNG'>
+<img src='Capture3.PNG'>
